@@ -1,4 +1,4 @@
-import { ReactNode } from 'react';
+import React from 'react';
 import DefaultOverLayContent from '../DefaultOverLayContent';
 import {ModelsWrapper, ModelsSection} from '../Model'
 import { Container } from './styles';
@@ -24,7 +24,7 @@ const Page: React.FC = () => {
             modelName={modelName}
             overlayNode={
               <DefaultOverLayContent
-              label="Model one"
+              label={modelName}
               description="Order Online for Delivery"
               />
             }
