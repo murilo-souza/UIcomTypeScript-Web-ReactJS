@@ -6,6 +6,7 @@ Aprendendo a utilizar TypeScript, Styled Components e framer motion para fazer u
 <h2>Tecnologia</h2>
 <ul>
   <li><a href="https://pt-br.reactjs.org">React JS</a></li>
+  <li><a href="https://www.typescriptlang.org">TypeScript</a></li>
   <li><a href="https://styled-components.com/docs/basics#installation">Styled Components</a></li>
   <li><a href="https://www.framer.com/motion/">Framer Motion</a></li>
 </ul>
